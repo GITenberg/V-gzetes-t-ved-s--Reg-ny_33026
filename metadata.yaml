@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26008
     wikipedia: http://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33026#V-gzetes-t-ved-s--Reg-ny
 gutenberg_issued: '2010-06-29'
 gutenberg_type: Text
 identifiers:
