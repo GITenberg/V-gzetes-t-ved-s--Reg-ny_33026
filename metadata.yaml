@@ -1,0 +1,41 @@
+_repo: V-gzetes-t-ved-s--Reg-ny_33026
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beniczkyné Bajza, Lenke
+    aliases:
+    - Bajza, Lenke Beniczkyné
+    - Beniczky, Lenke Bajza
+    - Bajza, Lenke Beniczky
+    birthdate: 1839
+    deathdate: 1905
+    gutenberg_agent_id: '36169'
+    url: http://www.gutenberg.org/2009/agents/36169
+    wikipedia: http://hu.wikipedia.org/wiki/Beniczkyn%C3%A9_Bajza_Lenke
+  editor:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Kálmán Mikszáth
+    - Mikszath, Kalman
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia: http://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+description: ''
+gutenberg_issued: '2010-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33026'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PH'
+title: 'Végzetes tévedés: Regény'
+url: http://www.gutenberg.org/ebooks/33026
